@@ -8,7 +8,8 @@ from .registry import DATASETS
 @DATASETS.register_module
 class CocoDataset(CustomDataset):
 
-    CLASSES = (0,1,2,3,4,5,6,7,8,9)
+    CLASSES = ('0', '8', '4', '2', '3', '1', '9', '6', '7', '5'
+               )
 
     def load_annotations(self, ann_file):
         self.coco = COCO(ann_file)

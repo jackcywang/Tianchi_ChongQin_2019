@@ -203,8 +203,8 @@ if __name__ == '__main__':
     args.val_json_path = '../dataset/COCO/Annotations/val.json'
     filp_augment(args)
     merge_ann(args.ann_path,args.aug_json_path)
-    #merge_img(args)
-    #split_data(args)
+    merge_img(args)
+    split_data(args)
     
 
 
