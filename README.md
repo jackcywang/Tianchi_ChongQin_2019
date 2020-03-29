@@ -12,11 +12,11 @@
 &ensp;&ensp;&ensp;|chongqing1_round2_train_20200213  
 &ensp;&ensp;&ensp;&ensp;images  
 &ensp;&ensp;&ensp;&ensp;annotations.json  
-&ensp;.....
-|-utils(数据清洗，增强，合并)
-|-work_dirs(权重保存)
-submit_v1.py(初赛提交脚本)
-submit_v2.py(复赛提交脚本)
+&ensp;.....  
+|-utils(数据清洗，增强，合并)  
+|-work_dirs(权重保存)  
+submit_v1.py(初赛提交脚本)  
+submit_v2.py(复赛提交脚本)  
 
 ### 2.Requirements
 * Linux
