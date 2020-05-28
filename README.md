@@ -1,6 +1,6 @@
 # 数智重庆.全球产业赋能创新大赛代码
 
-这是我参加华为云比赛后又参加的一个比赛，比赛连接[link](https://tianchi.aliyun.com/competition/entrance/231763/introduction)
+比赛连接[link](https://tianchi.aliyun.com/competition/entrance/231763/introduction)
 本次比赛代码是基于商汤开源的目标检测框架mmdetection来完成的，这个框架整合了许多最新的目标检测模型，感觉还是很不错的。关于这个mmdetection框架和使用方法,我后续会在自己博客网站中一一介绍。
 ### 1 代码结构
 |-mmdetection (mmdetection框架,部分代码有改动)  
